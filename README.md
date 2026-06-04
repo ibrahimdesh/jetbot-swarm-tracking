@@ -4,7 +4,7 @@ A four-robot [Waveshare JetBot](https://www.waveshare.com/wiki/JetBot_AI_Kit) sw
 
 This repository contains the implementations of the **three coordination schemes** developed and compared in the accompanying project report (BTH, ET2627 Robotics, 2026). The schemes are presented here in the same order as the report, from highest individual autonomy to the cooperative final solution.
 
-**📄 Full project report:** <DRIVE_LINK>
+## 📖 Report [Report](https://drive.google.com/file/d/1wsPWoI89N6VdKXj_qOBq7VKkvid7m6oV/view?usp=share_link)
 
 ---
 
@@ -106,5 +106,5 @@ The report discusses these in detail and points to a learned detector as the nat
 
 Released under the [MIT License](LICENSE).
 
-## 📖 Report
-[Report](https://drive.google.com/file/d/1wsPWoI89N6VdKXj_qOBq7VKkvid7m6oV/view?usp=share_link)
+
+
